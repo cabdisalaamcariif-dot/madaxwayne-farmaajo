@@ -1,0 +1,6 @@
+{
+  "name": "Mohamed Abdullahi Farmaajo - Wax-qabadkii Madaxweynaha",
+  "description": "Website casri ah oo ka hadlaya taariikhda, guulaha, iyo wax-qabadkii Madaxweynihii 9-aad ee Soomaaliya Mohamed Abdullahi Farmaajo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
